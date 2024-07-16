@@ -16,16 +16,16 @@ As title
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ## Features
 
-- N/A
+- Generates a book cover for the story
 
 
 ## Usage/Examples
 
 ```
-Enter text into text box lol
+Enter prompts into the text box, then the program will return you a story with a book cover related to the story
 ```
 
 
 ## Documentation
 
-[No Documentation Need la]()
+[No Documentation Needed la]()
